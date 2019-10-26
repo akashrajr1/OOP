@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 interface Stack{
 	void push(int x);
